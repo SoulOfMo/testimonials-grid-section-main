@@ -13,7 +13,7 @@ img {
 p,
 h2,
 h3,
-h4 {
+h3 {
     overflow-wrap: break-word;
 }
 
@@ -72,14 +72,14 @@ h2+p {
     display: inline;
 }
 
-h4 {
+h3 {
     font-size: 1.4em;
     font-weight: 600;
     color: hsl(0, 0%, 100%);
     margin-bottom: 1em;
 }
 
-h4+p {
+h3+p {
     max-width: 570px;
     color: hsl(210, 46%, 95%, 0.7);
 }
@@ -114,8 +114,8 @@ h4+p {
     grid-row: span 2;
 }
 
-.grid-five h4,
-.grid-three h4 {
+.grid-five h3,
+.grid-three h3 {
     color: hsl(217, 19%, 35%);
     font-weight: 600;
 }
