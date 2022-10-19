@@ -45,34 +45,22 @@ Users should be able to:
 
 ### What I learned
 
-
-This is my first time using grid and 
+I learned how to use grid and still have alot to know about it. 
 To see how you can add code snippets, see below:
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
 .proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
+  display: grid;
 }
 ```
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
+This is my first time using grid and I will love to use it again.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
+- [Traversy Grid Crash Course ](https://youtu.be/jV8B24rSN5o) - This is help understand the basic of grid. I really liked this display property and will use it going forward.
 
 ## Author
 
